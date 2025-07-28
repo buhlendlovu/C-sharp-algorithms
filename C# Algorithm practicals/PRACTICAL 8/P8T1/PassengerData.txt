@@ -1,0 +1,10 @@
+﻿823,Smith,JA,GQ-UTH,2024/09/01,25.5,paid
+222,Johnson,RT,GQ-MAK,2024/09/01,180.9,outstanding
+554,Williams,LK,GQ-JHB,2024/09/02,360.75,paid
+873,Brown,PE,GQ-DBN,2024/09/03,310,paid
+339,Davis,L,JHB-GQ,2024/09/04,360.75,paid
+80,Miller,AB,GQ-UTH,2024/09/04,25.5,outstanding
+731,Wilson,C,GQ-MAK,2024/09/05,180.9,outstanding
+916,Moore,DS,GQ-JHB,2024/09/06,360.75,paid
+800,Taylor,SJ,GQ-DBN,2024/09/06,310,paid
+788,Anderson,FR,JHB-GQ,2024/09/07,360.75,paid
